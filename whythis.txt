@@ -1,0 +1,2 @@
+The idea of creating this site, is simply to show experiences of some work outside the hours of work. This example is a mashup of two API's, colourlovers (color scheme) and summarize (Twitter posts on some subjects that interest me).
+This is a work in progress and probably may contain some bugs, for which i now apologize.
